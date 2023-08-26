@@ -2,7 +2,7 @@
 
 ## Build Setup
 
-![alt text](https://github.com/mdmunnaahmed/nuxt-todo-app/main/nuxt-todo.png?raw=true)
+![alt text](https://github.com/mdmunnaahmed/nuxt-todo-app/main/nuxt-todo.png)
 
 ```bash
 # install dependencies
